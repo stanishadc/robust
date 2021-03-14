@@ -11,9 +11,9 @@ export default class MainHeader extends Component {
                                 <div className=" col-md-9 col-sm-9">
                                     <div className="topbar-left">
                                         <ul>
-                                        <li><a href="#"><i className="fa fa-mobile" /> +3028039162</a></li>                                            
-                                            <li><a href="mailto:info@robuttechsystems.com"><i className="fa fa-envelope" /> info@robuttechsystems.com</a></li>                                            
-                                            <li><a href="#"><i className="fa fa-clock-o" /> Mon - Fri: 10:00 - 18:00</a></li>
+                                        <li><a href="#"><i className="fa fa-mobile" /> +1-302-803-9162</a></li>
+                                            <li><a href="mailto:info@robusttechsystems.com"><i className="fa fa-envelope" /> info@robusttechsystems.com</a></li>
+                                            <li><a href="#"><i className="fa fa-clock-o" /> Monday - Friday: 10:00 A.M. - 6:00 P.M. (EST)</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -49,7 +49,7 @@ export default class MainHeader extends Component {
                                             <div className="main-menu">
                                                 <ul className="nav navbar-nav navbar-right">
                                                 <li><Link to={"/"} className="pagess">Home</Link></li>
-                                                    <li><Link to={"/aboutus"} className="pagess">Aboutus</Link></li>
+                                                    <li><Link to={"/aboutus"} className="pagess">About Us</Link></li>
                                                     <li><Link className="pagess" to={"/services/artificial-intelligence"}>Services</Link>
                                                         <ul className="sub-menu">
                                                             <li><Link to={"/services/artificial-intelligence"}>Artificial Intelligence</Link></li>
@@ -63,7 +63,7 @@ export default class MainHeader extends Component {
                                                     {/* <li><Link to={"/services/itstaffing"}>US Recruitment</Link></li> */}
                                                     {/* <li><Link to={"/blog"}>Blog</Link></li> */}
                                                     <li><Link to={"/careers"} className="pagess">Careers</Link></li>
-                                                    <li><Link to={"/contactus"} className="pagess">ContactUs</Link></li>
+                                                    <li><Link to={"/contactus"} className="pagess">Contact Us</Link></li>
                                                 </ul>
                                             </div>
                                         </div>
@@ -74,7 +74,7 @@ export default class MainHeader extends Component {
                         </div>
                     </div>
                     {/* header-area end */}
-                    
+
                 </header>
         )
     }

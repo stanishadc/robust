@@ -20,9 +20,9 @@ export default class SubContent extends Component {
                         <h2 className="title2">Build an application powered by <span className="color-2">Artificial Intelligence</span> </h2>
                       </div>
                       {/* layer 2 */}
-                      <div className="layer-2 wow fadeInUp" data-wow-delay="0.5s">
-                        <p>We develop effective plans to move your customers behaviour. customer can be always his profit.</p>
-                      </div>
+                      {/*<div className="layer-2 wow fadeInUp" data-wow-delay="0.5s">
+                        <p>We develop effective plans to move your customers' behaviour.</p>
+                      </div>*/}
                       {/* layer 3 */}
                       <div className="layer-3 wow fadeInUp" data-wow-delay="0.7s">
                         <a href="#" className="ready-btn">Get In Touch</a>
@@ -167,7 +167,7 @@ Our client centric QA Strategy ensures optimization through reduced testing over
                       <img src="img/service/w3.png" alt />
                     </div>
                     <div className="service-content">
-                      <h4><a href="#">Staff Augumentation</a></h4>
+                      <h4><a href="#">Staff Augmentation</a></h4>
                       <p>In staffing and recruitment, whether it is a single position or large-scale staffing initiative, our proprietary candidate search abilities and superior service enable us to identify, attract, screen and acquire the best candidates for our clients.</p>
                     </div>
                   </div>
@@ -202,7 +202,7 @@ Our client centric QA Strategy ensures optimization through reduced testing over
           </div>
         </div>
         {/* Service area End */}
-        
+
         {/* End Tab end */}
         {/* Start Subscribe area */}
         <div className="achivement-area achivement-area-2 bg-color area-padding">
@@ -211,7 +211,7 @@ Our client centric QA Strategy ensures optimization through reduced testing over
             <div className="row">
               <div className="col-md-12 col-sm-12 col-xs-12">
                 <div className="section-headline text-center">
-                  <h3>Our achievement</h3>                  
+                  <h3>Our achievement</h3>
                 </div>
               </div>
             </div>
@@ -235,7 +235,7 @@ Our client centric QA Strategy ensures optimization through reduced testing over
                     <div className="achive-image">
                       <img src="img/about/achive2.png" alt />
                     </div>
-                    <div className="achivement-text">                      
+                    <div className="achivement-text">
                       <h4>Top Rated in Upwork</h4>
                     </div>
                   </div>
@@ -254,7 +254,7 @@ Our client centric QA Strategy ensures optimization through reduced testing over
                 </div>
               </div>
             </div>
-            
+
             <div className="row">
               <div className="col-md-12 col-sm-12 col-xs-12">
                 <div className="we-services">
@@ -321,8 +321,8 @@ Our client centric QA Strategy ensures optimization through reduced testing over
         </div>
         {/* End Subscribe area */}
         {/* Start project Area */}
-        
-        
+
+
       </div>
     )
   };

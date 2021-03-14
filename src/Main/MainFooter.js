@@ -14,7 +14,7 @@ export default class MainFooter extends Component {
                                             <div className="footer-logo">
                                                 <a className="footer-white-logo" href="#"><img src="img/logo/footerlogo.png" alt /></a>
                                             </div>
-                                            <p>Robust Tech Systems is a Jersey City based e-verified company providing our clients the solutions that exceed their expectations</p>
+                                            <p>Robust Tech Systems is a Delaware based e-verified company providing our clients the solutions that exceed their expectations</p>
                                             <div className="subs-feilds">
                                                 <div className="suscribe-input">
                                                     <input type="email" className="email form-control width-80" id="sus_email" placeholder="Type Email" />
@@ -30,9 +30,9 @@ export default class MainFooter extends Component {
                                         <div className="footer-head">
                                             <h4>Services Link</h4>
                                             <ul className="footer-list">
-                                                <li><Link to={"/aboutus"}>Aboutus</Link></li>
+                                                <li><Link to={"/aboutus"}>About Us</Link></li>
                                                 <li><Link to={"/careers"}>Careers</Link></li>
-                                                <li><Link to={"/contactus"}>ContactUs</Link></li>
+                                                <li><Link to={"/contactus"}>Contact Us</Link></li>
                                                 <li><Link to={"/hiredeveloper/dedicated-developer"}>Hire Developers</Link></li>
                                                 <li><Link to={"/"}>Blog</Link></li>
                                             </ul>
@@ -52,9 +52,9 @@ export default class MainFooter extends Component {
                                         <div className="footer-head">
                                             <h4>Robust Tech Systems</h4>
                                             <div className="footer-contacts">
-                                                <p><span>Call: </span>+3028039162</p>
-                                                <p><span>Email :</span> info@robuttechsystems.com</p>
-                                                <p><span>Location :</span>2093 Philadelphia Pike, #8730,Claymont, DE 19730 USA</p>
+                                                <p><span>Call: </span>+1-302-803-9162</p>
+                                                <p><span>Email: </span> info@robusttechsystems.com</p>
+                                                <p><span>Location: </span>2093 Philadelphia Pike, #8730, Claymont, DE 19730, USA</p>
                                             </div>
                                             <div className="footer-icons">
                                                 <ul>

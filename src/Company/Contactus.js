@@ -32,7 +32,7 @@ export default class Conntactus extends Component {
                                 {/* Start Map */}
                                 <div className="map-area">
                                 <div style={{ width: '100%', height: 410 }}>
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3065.7376952567456!2d-75.47676168466359!3d39.79044157944287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6e38488808071%3A0x3749940e603a7fde!2s2093%20Philadelphia%20Pike%2C%20Claymont%2C%20DE%2019703%2C%20USA!5e0!3m2!1sen!2sin!4v1615374083066!5m2!1sen!2sin" width="100%" height="450" style={{border:0}} allowfullscreen="" loading="lazy"></iframe>                               
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3065.7376952567456!2d-75.47676168466359!3d39.79044157944287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6e38488808071%3A0x3749940e603a7fde!2s2093%20Philadelphia%20Pike%2C%20Claymont%2C%20DE%2019703%2C%20USA!5e0!3m2!1sen!2sin!4v1615374083066!5m2!1sen!2sin" width="100%" height="450" style={{border:0}} allowfullscreen="" loading="lazy"></iframe>
         </div>
                                 </div>
                                 {/* End Map */}
@@ -52,9 +52,9 @@ export default class Conntactus extends Component {
                                         <div className="single-icon">
                                             <i className="fa fa-mobile" />
                                             <p>
-                                            <span>Call: +3028039162</span><br />
-                                                <span>Email : info@robusttechsystems.com</span><br/ >
-                                                <span>Monday-Friday (10am-18pm)</span>
+                                            <span>Call: +1-302-803-9162</span><br />
+                                                <span>Email: info@robusttechsystems.com</span><br/ >
+                                                <span>Monday - Friday: 10 A.M. - 6 P.M. (EST)</span>
                                             </p>
                                         </div>
                                     </div>
@@ -66,7 +66,7 @@ export default class Conntactus extends Component {
                                             <i className="fa fa-map-marker" />
                                             <p>
                                                 <span>2093 Philadelphia Pike, #8730<br/>
-                                                Claymont, DE 19730.<br/>USA</span>
+                                                Claymont, DE 19730, <br/>USA</span>
                                             </p>
                                         </div>
                                     </div>

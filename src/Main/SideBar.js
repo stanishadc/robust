@@ -17,21 +17,21 @@ export default function SiderBar(props) {
                         </ul>
                     </div>
                 </div>
-                <div className="single-page-head">
+                {/*}<div className="single-page-head">
                     <h4></h4>
                     <div className="left-menu">
                         <ul>
-                            {/* <li className={props.pagename === "FlightEngine" ? 'active' : ''}><Link to={"/product/flight-booking-engine"}>Flight Booking Engine</Link></li>
+                            <li className={props.pagename === "FlightEngine" ? 'active' : ''}><Link to={"/product/flight-booking-engine"}>Flight Booking Engine</Link></li>
                             <li className={props.pagename === "HotelEngine" ? 'active' : ''}><Link to={"/product/hotel-booking-engine"}>Hotel Booking Engine</Link></li>
-                            <li className={props.pagename === "VisaEngine" ? 'active' : ''}><Link to={"/product/visa-booking-engine"}>Visa Booking Engine</Link></li> */}
-                            {/* <li className={props.pagename === "TravelERP" ? 'active' : ''}><Link to={"/product/travel-erp-software"}>Travel ERP Software</Link></li>
+                            <li className={props.pagename === "VisaEngine" ? 'active' : ''}><Link to={"/product/visa-booking-engine"}>Visa Booking Engine</Link></li>
+                            <li className={props.pagename === "TravelERP" ? 'active' : ''}><Link to={"/product/travel-erp-software"}>Travel ERP Software</Link></li>
                             <li className={props.pagename === "B2BTravels" ? 'active' : ''}><Link to={"/product/b2b-travel-software"}>B2B Travel Software</Link></li>
-                            <li className={props.pagename === "B2CTravels" ? 'active' : ''}><Link to={"/product/b2c-travel-software"}>B2C Travel Software</Link></li> */}
-                            {/* <li className={props.pagename === "DMS" ? 'active' : ''}><Link to={"/product/document-management-system"}>Document Management System</Link></li>
-                            <li className={props.pagename === "CAM" ? 'active' : ''}><Link to={"/product/chartered-accounting-management-software"}>CA Management</Link></li> */}
+                            <li className={props.pagename === "B2CTravels" ? 'active' : ''}><Link to={"/product/b2c-travel-software"}>B2C Travel Software</Link></li>
+                            <li className={props.pagename === "DMS" ? 'active' : ''}><Link to={"/product/document-management-system"}>Document Management System</Link></li>
+                            <li className={props.pagename === "CAM" ? 'active' : ''}><Link to={"/product/chartered-accounting-management-software"}>CA Management</Link></li>
                         </ul>
                     </div>
-                </div>
+                </div>*/}
             </div>
         </div>
     )

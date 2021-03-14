@@ -1,11 +1,11 @@
 
-    /*-----------------------------------------------------------------------------------  
+    /*-----------------------------------------------------------------------------------
      CSS INDEX
     ===================
 
     1. Theme Default CSS (body, link color, section etc)
     2. Header Top Area
-    2.1 Header Bottom Area 
+    2.1 Header Bottom Area
     2.2. Sticky Header Area
     2.3. Mobile Menu Area
     3. Intro Area
@@ -32,8 +32,8 @@
     23. Home -4 New
     24. Home -5 New
     25.Animation  CSS
-   
-    
+
+
 -----------------------------------------------------------------------------------*/
 /*----------------------------------------*/
 /*  Google Fonts
@@ -89,32 +89,32 @@ h1, h2, h3, h4, h5, h6 {
 h1{
 	font-size: 48px;
 	line-height: 50px;
-		
+
 }
 h2{
 	font-size: 38px;
 	line-height: 44px;
-		
+
 }
 h3{
 	font-size: 30px;
 	line-height: 38px;
-		
+
 }
 h4{
 	font-size: 24px;
 	line-height: 34px;
-		
+
 }
 h5{
 	font-size: 20px;
 	line-height: 28px;
-		
+
 }
 h6{
 	font-size: 16px;
 	line-height: 26px;
-		
+
 }
 a {
 	transition: all 0.3s ease 0s;
@@ -146,12 +146,12 @@ body {
     line-height: 48px;
     right: 30px;
     width: 44px;
-    background-color: #1AA15F;
+    background-color: #5BBBAF;
     color: #fff;
     text-align: center;
     height: 44px;
     border-radius: 3px;
-    border:1px solid #1AA15F;
+    border:1px solid #5BBBAF;
     transition-duration: 500ms;
 }
 #scrollUp:hover {
@@ -177,10 +177,10 @@ input, select, textarea, input[type="text"], input[type="date"], input[type="url
 input:focus, textarea:focus, select:focus {
     outline: none;
 }
-div#preloader { 
+div#preloader {
 	position: fixed;
-	left: 0; 
-	top: 0; 
+	left: 0;
+	top: 0;
 	z-index: 99999;
 	width: 100%;
 	height: 100%;
@@ -235,7 +235,7 @@ div#preloader {
     margin: 0 auto;
 }
 .white-headline h3{
-   color:#fff; 
+   color:#fff;
 }
 .section-headline h4 .color {
     color: #0c54ad;
@@ -301,7 +301,7 @@ div#preloader {
 	opacity: 1;
 }
 /*----------------------------------------*/
-/*  2.1 Header Bottom Area 
+/*  2.1 Header Bottom Area
 /*----------------------------------------*/
 .header-one {
     position: absolute;
@@ -471,11 +471,11 @@ div#preloader {
       direction: rtl; }
     .owl-carousel.owl-rtl .owl-item {
       float: right; }
-  
+
   /* No Js */
   .no-js .owl-carousel {
     display: block; }
-  
+
   /*
    *  Owl Carousel - Animate Plugin
    */
@@ -488,7 +488,7 @@ div#preloader {
     z-index: 1; }
   .owl-carousel .fadeOut {
     animation-name: fadeOut; }
-  
+
   @keyframes fadeOut {
     0% {
       opacity: 1; }
@@ -499,7 +499,7 @@ div#preloader {
    */
   .owl-height {
     transition: height 500ms ease-in-out; }
-  
+
   /*
    * 	Owl Carousel - Lazy Load Plugin
    */
@@ -515,7 +515,7 @@ div#preloader {
       max-height: 0; }
     .owl-carousel .owl-item img.owl-lazy {
       transform-style: preserve-3d; }
-  
+
   /*
    * 	Owl Carousel - Video Plugin
    */
@@ -553,7 +553,7 @@ div#preloader {
     z-index: 1;
     height: 100%;
     width: 100%; }
-  
+
   /*
    * 	Default theme - Owl Carousel CSS File
    */
@@ -896,12 +896,12 @@ div#preloader {
     border-radius: 50px;
     font-size: 12px;
     color: #fff;
-    background: #1AA15F;
+    background: #5BBBAF;
 }
 .ab-btn {
     padding: 8px 20px;
-    border: 1px solid #1AA15F;
-    background: #1AA15F;
+    border: 1px solid #5BBBAF;
+    background: #5BBBAF;
     color: #fff;
     transition: 0.4s;
     font-size: 17px;
@@ -912,7 +912,7 @@ div#preloader {
 }
 .ab-btn:hover{
     background: transparent;
-    color: #1AA15F;
+    color: #5BBBAF;
     transition: 0.4s;
 }
 /*----------------------------------------*/
@@ -1021,13 +1021,13 @@ div#preloader {
   color: #fff !important;
   cursor: default;
   position: relative;
-  background: #1AA15F;
+  background: #5BBBAF;
 }
 .tab-menu ul.nav li a:hover{
     background:transparent;
 }
 .tab-menu ul.nav li.active a:hover{
-    background:#1AA15F;
+    background:#5BBBAF;
 }
 .cha-icon {
     display: inline-block;
@@ -1088,7 +1088,7 @@ div#preloader {
     border-radius: 50px;
     font-size: 12px;
     color: #fff;
-    background: #1AA15F;
+    background: #5BBBAF;
 }
 /*----------------------------------------
   7. Achivement Area Css
@@ -1268,7 +1268,7 @@ div#preloader {
 .single-awesome-project:hover .project-dec h4 {
     color:#0c54ad;
 }
-.project-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev, 
+.project-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev,
 .project-carousel.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-next {
     color: #fff;
     font-size: 18px;
@@ -1765,10 +1765,10 @@ div#preloader {
     color:#ddd;
 }
 .header-two .topbar-left ul li a i{
-    color:#1AA15F;
+    color:#5BBBAF;
 }
 .header-two .top-social ul li a{
-    background: #1AA15F;
+    background: #5BBBAF;
 }
 .header-area-2 .black-logo {
     display: none;
@@ -1801,13 +1801,13 @@ div#preloader {
     text-align: center;
 }
 .color-2{
-    color:#1AA15F;
+    color:#5BBBAF;
 }
 .service-area-2 .service-btn,
 .header-area-2 .s-menu,
 .intro-area-2 .ready-btn{
-    background: #1AA15F;
-    border:1px solid #1AA15F;
+    background: #5BBBAF;
+    border:1px solid #5BBBAF;
     transition: 0.4s;
 }
 .header-area-2 .s-menu:hover{
@@ -1818,17 +1818,17 @@ div#preloader {
 .service-area-2 .service-btn:hover,
 .intro-area-2 .ready-btn:hover{
     background:transparent;
-    color:#1AA15F;
+    color:#5BBBAF;
     transition: 0.4s;
 }
 .header-area-2.stick .s-menu:hover{
     background: transparent;
-    border:1px solid #1AA15F;
+    border:1px solid #5BBBAF;
     transition: 0.4s;
-    color:#1AA15F;
+    color:#5BBBAF;
 }
 .header-area-2 .main-menu > ul.navbar-nav >li >a::before{
-    border: 1px solid #1AA15F;
+    border: 1px solid #5BBBAF;
 }
 .header-area-2 .header-right-link {
     margin-left: 140px;
@@ -1873,32 +1873,32 @@ div#preloader {
     color:#ddd;
 }
 .footer2 .footer-contacts p span{
-    color:#1AA15F;
+    color:#5BBBAF;
 }
 .footer2 .suscribe-input button{
-    background: #1AA15F;
-    border:1px solid #1AA15F;
+    background: #5BBBAF;
+    border:1px solid #5BBBAF;
 }
 .footer2 .footer-icons ul li a{
-    background: #1AA15F;
-    border:1px solid #1AA15F;
+    background: #5BBBAF;
+    border:1px solid #5BBBAF;
 }
 .footer2 .footer-icons ul li a:hover{
     background:transparent;
-    color: #1AA15F;
+    color: #5BBBAF;
 }
 .footer2 .suscribe-input button:hover{
     background:#fff;
-    color: #1AA15F;
+    color: #5BBBAF;
 }
 .footer2 .footer-list li a:hover{
-    color:#1AA15F;
+    color:#5BBBAF;
 }
 .footer2 .footer-list li a:hover::after{
-    background: #1AA15F;
+    background: #5BBBAF;
 }
 .footer2 .copyright a{
-    color:#1AA15F;
+    color:#5BBBAF;
 }
 /*--------------------------------*/
 /* 12.2 .home-2 welcome Services Area
@@ -1967,11 +1967,11 @@ div#preloader {
 }
 .well-services:hover::before{
     transition: 0.4s;
-    opacity:1; 
+    opacity:1;
 }
 .well-services:hover::after{
     transition: 0.4s;
-    opacity:1; 
+    opacity:1;
 }
 .well-services:hover .wel-content h4,
 .well-services:hover .wel-content p {
@@ -2066,7 +2066,7 @@ div#preloader {
     display: inline-block;
     border-radius: 50%;
     margin-bottom: 30px;
-    background:#fff; 
+    background:#fff;
 }
 .proses-icon {
     position: relative;
@@ -2095,8 +2095,8 @@ div#preloader {
     border: 1px solid #b91ca8;
 }
 .point-green .point-view{
-    background: #1AA15F;
-    border: 1px solid #1AA15F;
+    background: #5BBBAF;
+    border: 1px solid #5BBBAF;
 }
 .point-blue.proses-icon a{
     color:#0c54ad;
@@ -2105,7 +2105,7 @@ div#preloader {
     color:#b91ca8;
 }
 .point-green.proses-icon a{
-    color:#1AA15F;
+    color:#5BBBAF;
 }
 .proses-text h4 {
     text-transform: capitalize;
@@ -2374,7 +2374,7 @@ span.q-text {
 }
 .left-blog .post-img a {
     display: block;
-    border:1px solid #fafafa; 
+    border:1px solid #fafafa;
 }
 .left-blog .post-img a img {
     border-radius: 4px;
@@ -2441,7 +2441,7 @@ span.q-text {
     margin: 10px 0 0px;
     border-radius: 4px;
 }
-.pagination>li>a, 
+.pagination>li>a,
 .pagination>li>span {
     position: relative;
     float: left;
@@ -2458,11 +2458,11 @@ span.q-text {
     display: inline-block;
     margin: 0px 3px 0px 0px;
 }
-.pagination>.active>a, 
-.pagination>.active>span, 
-.pagination>.active>a:hover, 
-.pagination>.active>span:hover, 
-.pagination>.active>a:focus, 
+.pagination>.active>a,
+.pagination>.active>span,
+.pagination>.active>a:hover,
+.pagination>.active>span:hover,
+.pagination>.active>a:focus,
 .pagination>.active>span:focus{
     z-index: 3;
     color: #fff;
@@ -2498,7 +2498,7 @@ span.q-text {
     float: left;
     margin-right: 15px;
 	border-radius: 50%;
-	
+
 }
 .comments-list-img img {
     border-radius: 3px;
@@ -2750,11 +2750,11 @@ span.email-notes{
     padding-bottom: 0;
 }
 .left-menu ul li.active a {
-    color: #0c54ad;
+    color: #5bbbaf;
     position: relative;
 }
 .left-menu ul li a:hover {
-    color: #0c54ad;
+    color: #5bbbaf;
 }
 .left-menu ul li a {
     color: #2a354e;
@@ -2766,7 +2766,7 @@ span.email-notes{
     text-decoration: none;
     text-transform: capitalize;
 }
-.left-menu ul li.active a::after, 
+.left-menu ul li.active a::after,
 .left-menu ul li a:hover::after {
     content: "\e649";
     font-family: themify;
@@ -2948,8 +2948,8 @@ span.email-notes{
 }
 .project-carousel-2.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-prev:hover,
 .project-carousel-2.owl-carousel.owl-theme .owl-controls .owl-nav div.owl-next:hover{
-    background: #1AA15F;
-    border: 1px solid #1AA15F;
+    background: #5BBBAF;
+    border: 1px solid #5BBBAF;
     color: #fff;
     transition: all 0.5s ease 0s;
 }
@@ -3028,7 +3028,7 @@ span.email-notes{
     color: #2a354e;
 }
 .header-three .header-area-2 .main-menu ul.navbar-nav li a:hover {
-    color: #1AA15F;
+    color: #5BBBAF;
 }
 .header-area-2 .main-menu ul.navbar-nav li a {
     color: #fff;
@@ -3053,8 +3053,8 @@ span.email-notes{
     color: #fff;
 }
 .intro-area-3 .ready-btn {
-    background: #1AA15F;
-    border: 1px solid #1AA15F;
+    background: #5BBBAF;
+    border: 1px solid #5BBBAF;
     transition: 0.4s;
 }
 .intro-area-3 .ready-btn:hover {
@@ -3064,7 +3064,7 @@ span.email-notes{
     transition: 0.4s;
 }
 .welcome-area-2 .big-icon {
-    color: #1AA15F;
+    color: #5BBBAF;
 }
 .welcome-area-2 .well-services::after {
     position: absolute;
@@ -3073,34 +3073,34 @@ span.email-notes{
     top: 0;
     width: 100%;
     height: 100%;
-    background: rgba(26,161,95,0.96);
+    background: rgba(91,187,175,0.96);
     transition: 0.4s;
     opacity: 0;
     z-index: -1;
 }
 .welcome-area-2 .well-services:hover::after{
     transition: 0.4s;
-    opacity:1; 
+    opacity:1;
 }
 .green-btn {
-    border: 1px solid #1AA15F;
-    background: #1AA15F;
+    border: 1px solid #5BBBAF;
+    background: #5BBBAF;
 }
 .green-btn:hover {
-    border: 1px solid #1AA15F;
+    border: 1px solid #5BBBAF;
     background: transparent;
-    color: #1AA15F;
+    color: #5BBBAF;
     transition: all 0.4s ease 0s;
 }
 .achivement-area-2 .achive-number {
-    color: #1AA15F;
+    color: #5BBBAF;
 }
 .project-area-2 .project-dec h4::after {
-    border: 1px solid #1AA15F;
-    background: #1AA15F;
+    border: 1px solid #5BBBAF;
+    background: #5BBBAF;
 }
 .project-area-2 .single-awesome-project:hover .project-dec h4 {
-    color: #1AA15F;
+    color: #5BBBAF;
 }
 .project-area-2 .awesome-img > a::after {
     background: rgba(26,161,95,0.7);
@@ -3119,16 +3119,16 @@ span.email-notes{
 .project-area-2 .project-carousel.owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-next:hover,
 .project-area-2 .project-carousel.owl-carousel.owl-theme:hover .owl-controls .owl-nav div.owl-prev:hover{
     color:#fff;
-    background: #1AA15F;
-    border: 1px solid #1AA15F;
+    background: #5BBBAF;
+    border: 1px solid #5BBBAF;
 }
-.blog-area-2 .admin-type i, 
-.blog-area-2 .date-type i, 
+.blog-area-2 .admin-type i,
+.blog-area-2 .date-type i,
 .blog-area-2 .comments-type i{
-    color:#1AA15F;
+    color:#5BBBAF;
 }
 .blog-area-2 .blog-content a h4:hover {
-    color: #1AA15F;
+    color: #5BBBAF;
     transition: 0.4s;
 }
 .footer-3 {
@@ -3480,16 +3480,16 @@ span.dolar {
     color:#fff;
 }
 .intro-4 .color{
-    color:#1AA15F;
+    color:#5BBBAF;
 }
 .header-three .header-area .s-menu{
-    background: #1AA15F;
-    border: 1px solid #1AA15F;
+    background: #5BBBAF;
+    border: 1px solid #5BBBAF;
     transition: 0.4s;
 }
 .header-three .header-area .s-menu:hover{
     background:transparent;
-    color:#1AA15F;
+    color:#5BBBAF;
     transition: 0.4s;
 }
 .intro-area-3.intro-4::after{
@@ -3502,7 +3502,7 @@ span.dolar {
     margin-left: 20px;
     margin-top: 30px;
 }
-.service-area-2 .all-service .col-md-4, 
+.service-area-2 .all-service .col-md-4,
 .service-area-2 .all-service .col-sm-6 {
     padding-left: 15px;
     padding-right: 15px;
@@ -3558,7 +3558,7 @@ span.dolar {
     margin-bottom: 0px;
 }
 .achivement-area-3 .digital-services:hover{
-    background: #1AA15F;
+    background: #5BBBAF;
     transition: 0.5s;
 }
 /*----------------------------------------
@@ -3590,8 +3590,8 @@ span.dolar {
     color: #fff;
 }
 .quote-area .contact-form button[type="submit"] {
-    background: #1AA15F;
-    border: 1px solid #1AA15F;
+    background: #5BBBAF;
+    border: 1px solid #5BBBAF;
     color: #fff;
     padding: 10px 20px;
     font-size: 17px;
@@ -3608,32 +3608,32 @@ span.dolar {
 }
 .quote-area .quote-btn:hover{
     background:transparent!important;
-    color:#1AA15F !important;
+    color:#5BBBAF !important;
     transition: 0.4s;
 }
 .help-block.last-part{
 	margin:0px;
 }
 .green-color{
-    color:#1AA15F;
+    color:#5BBBAF;
 }
 .pricing-area-3 .top-price-inner{
-    background: #1AA15F;
+    background: #5BBBAF;
 }
 .pricing-area-3 .top-price-inner::after{
-    border-top: 99px solid #1AA15F;
+    border-top: 99px solid #5BBBAF;
 }
 .pricing-area-3 .price-btn a {
     color: #fff;
-    background: #1AA15F;
-    border: 1px solid #1AA15F;
+    background: #5BBBAF;
+    border: 1px solid #5BBBAF;
 }
 .pricing-area-3 .price-btn a:hover {
-    color: #1AA15F;
+    color: #5BBBAF;
     background:transparent;
 }
 .table-list li.check::before{
-    color:#1AA15F;
+    color:#5BBBAF;
 }
 /*----------------------------------------*/
 /*  24.	Home-5  CSS
@@ -3648,7 +3648,7 @@ span.dolar {
     background: #f5f5f5;
 }
 .achivement-area-4 .digital-services{
-   background: #fff; 
+   background: #fff;
     border:1px solid #ddd;
 }
 .achivement-area-4 .digital-content p{
@@ -3668,7 +3668,7 @@ span.dolar {
 }
 span.new {
     float: right;
-    background: #1AA15F;
+    background: #5BBBAF;
     padding: 2px 5px;
     line-height: 20px;
     color: #fff !important;
