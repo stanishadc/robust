@@ -14,7 +14,7 @@ export default class MainFooter extends Component {
                                             <div className="footer-logo">
                                                 <a className="footer-white-logo" href="#"><img src="img/logo/footerlogo.png" alt /></a>
                                             </div>
-                                            <p>Robust Tech Systems is a Delaware based e-verified company providing our clients the solutions that exceed their expectations</p>
+                                            <p>Robust Tech Systems is a Delaware based e-verified company which provides solutions that consistently exceed expectations!</p>
                                             <div className="subs-feilds">
                                                 <div className="suscribe-input">
                                                     <input type="email" className="email form-control width-80" id="sus_email" placeholder="Type Email" />

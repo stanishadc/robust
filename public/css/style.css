@@ -191,11 +191,13 @@ div#preloader {
     padding-left: 0px;
 }
 ::-moz-selection {
-    background: #0c54ad;
+		color: #ffffff;
+    background: #5bbbaf;
     text-shadow: none;
 }
 ::selection {
-    background: #0c54ad;
+		color: #ffffff;
+    background: #5bbbaf;
     text-shadow: none;
 }
 .bg-color{
@@ -3093,7 +3095,7 @@ span.email-notes{
     transition: all 0.4s ease 0s;
 }
 .achivement-area-2 .achive-number {
-    color: #5BBBAF;
+    color: #f6ba18;
 }
 .project-area-2 .project-dec h4::after {
     border: 1px solid #5BBBAF;

@@ -25,7 +25,7 @@ export default class SubContent extends Component {
                       </div>*/}
                       {/* layer 3 */}
                       <div className="layer-3 wow fadeInUp" data-wow-delay="0.7s">
-                        <a href="#" className="ready-btn">Get In Touch</a>
+                        <a href="/contactus" className="ready-btn">Get In Touch</a>
                       </div>
                     </div>
                   </div>
@@ -262,7 +262,7 @@ Our client centric QA Strategy ensures optimization through reduced testing over
                   <div className="digital-services">
                     <div className="digital-wel s1-item">
                       <div className="digital-img">
-                        <a className="digital-icon" href="#"><img src="img/icon/lopard1.png" alt /></a>
+                        <a className="digital-icon"><img src="img/icon/lopard1.png" alt /></a>
                       </div>
                       <div className="digital-content">
                         <h4>Industries &amp; manufacturing</h4>
@@ -273,7 +273,7 @@ Our client centric QA Strategy ensures optimization through reduced testing over
                   <div className="digital-services">
                     <div className="digital-wel s2-item">
                       <div className="digital-img">
-                        <a className="digital-icon" href="#"><img src="img/icon/lopard2.png" alt /></a>
+                        <a className="digital-icon"><img src="img/icon/lopard2.png" alt /></a>
                       </div>
                       <div className="digital-content">
                         <h4>Automobile &amp; transportation</h4>
@@ -284,10 +284,10 @@ Our client centric QA Strategy ensures optimization through reduced testing over
                   <div className="digital-services">
                     <div className="digital-wel s4-item">
                       <div className="digital-img">
-                        <a className="digital-icon" href="#"><img src="img/icon/lopard3.png" alt /></a>
+                        <a className="digital-icon"><img src="img/icon/lopard3.png" alt /></a>
                       </div>
                       <div className="digital-content">
-                        <h4>Food &amp; agriculture</h4>
+                        <h4>Food &amp; Agriculture</h4>
                       </div>
                     </div>
                   </div>
@@ -295,10 +295,10 @@ Our client centric QA Strategy ensures optimization through reduced testing over
                   <div className="digital-services">
                     <div className="digital-wel s3-item">
                       <div className="digital-img">
-                        <a className="digital-icon" href="#"><img src="img/icon/lopard4.png" alt /></a>
+                        <a className="digital-icon"><img src="img/icon/lopard4.png" alt /></a>
                       </div>
                       <div className="digital-content">
-                        <h4>Health &amp; humanbody</h4>
+                        <h4>Health &amp; Human body</h4>
                       </div>
                     </div>
                   </div>
@@ -306,10 +306,10 @@ Our client centric QA Strategy ensures optimization through reduced testing over
                   <div className="digital-services">
                     <div className="digital-wel s5-item">
                       <div className="digital-img">
-                        <a className="digital-icon" href="#"><img src="img/icon/lopard5.png" alt /></a>
+                        <a className="digital-icon"><img src="img/icon/lopard5.png" alt /></a>
                       </div>
                       <div className="digital-content">
-                        <h4>Media &amp; entertainment</h4>
+                        <h4>Media &amp; Entertainment</h4>
                       </div>
                     </div>
                   </div>
